@@ -20,36 +20,36 @@ Muestre los datos registrados en una ventana modal de confirmación.
 <img width="785" height="254" alt="image" src="https://github.com/user-attachments/assets/f52162f5-5849-47fa-b7c7-d6ac14b88d72" />
 
 
-#Estructura del Formulario
+# Estructura del Formulario
 
-#El formulario captura los siguientes datos:
+# El formulario captura los siguientes datos:
 
-*Nombre
+* Nombre
 
-Número de control
+* Número de control
 
-Email
+* Email
 
-Carrera (Dropdown)
+* Carrera (Dropdown)
 
-Semestre (Dropdown)
+* Semestre (Dropdown)
 
-Género (Radio buttons)
+* Género (Radio buttons)
 
 
-El programa inicia con la función principal:
+# El programa inicia con la función principal:
 
 def main(page: ft.Page):
 
 
 Esta función configura la ventana:
 
-Título de la página.
+*Título de la página.
 
-Color de fondo.
+*Color de fondo.
 
-Márgenes.
+*Márgenes.
 
-Alineación de los elementos.
+*Alineación de los elementos.
 
-Tema visual claro.
+*Tema visual claro.
