@@ -19,11 +19,12 @@ Muestre los datos registrados en una ventana modal de confirmación.
 
 <img width="785" height="254" alt="image" src="https://github.com/user-attachments/assets/f52162f5-5849-47fa-b7c7-d6ac14b88d72" />
 
-Estructura del Formulario
 
-El formulario captura los siguientes datos:
+#Estructura del Formulario
 
-Nombre
+#El formulario captura los siguientes datos:
+
+*Nombre
 
 Número de control
 
